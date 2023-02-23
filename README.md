@@ -1,4 +1,4 @@
-# TüReuth Legal at SemEval Task 6 Code
+# TüReuth Legal at SemEval 2023 Task 6 Code
 
 This repository contains the code to replicate experiments for our participation at [SemEval Task 6: LegalAI](https://sites.google.com/view/legaleval/home).
 Note that we only participate in subtask (A), predicting Rhetorical Roles.
